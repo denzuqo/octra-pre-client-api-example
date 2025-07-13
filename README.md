@@ -1,6 +1,10 @@
 Example of Octra Pre-client API
 
-This I rewrote using:
+In this code, there are only APIs for :
+- displaying encrypted balance
+- private transfer
+
+This I rewrote using :
 - TypeScript
 - The latest version of NextJS
 
